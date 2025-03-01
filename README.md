@@ -15,7 +15,6 @@ TrustOracle is a decentralized AI-driven trust and reputation scoring system. It
 # Deployed Contract
 Network: Edu Chain
 Contract Address: 0xA1B2C3D4E5F60789abcdef123456789012345678
-Smart Contract Overview
 
 # TrustOracle's smart contract supports:
 Assigning Trust Scores: AI dynamically assigns scores based on past transactions.
